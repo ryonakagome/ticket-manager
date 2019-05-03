@@ -14,4 +14,10 @@
 
         <meta name="robots" content="noindex,nofollow" />
         <meta name="description" content="N-Point Ticket Manager" />
-        <meta name=""
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+
+        <title>N-Point Ticket Manager</title>
+
+    </head>
+    <body>
+        
