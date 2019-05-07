@@ -12,7 +12,7 @@
         print('</div>');
         print('</div>');
         print('</nav>');
-        print('<script>$(document).ready(function(){$(".sidenav").sidenav();});</script>')
+        print('<script>$(document).ready(function(){$(".sidenav").sidenav();});</script>');
     } else {
 
     }
