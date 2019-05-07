@@ -10,4 +10,7 @@
 <!DOCTYPE HTML>
 <html lang="ja">
     <?php require_once('temp/head.php'); ?>
-    
+    <body>
+        <?php require_once('temp/nav.php'); ?>
+    </body>
+</html>
